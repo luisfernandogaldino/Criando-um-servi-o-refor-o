@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "img": "../../assets/shopping (3).webp",
+      "nome": "Nescau ",
+      "valor": 8,
+      "descricao": "Nescau de boa qualidade",
+      "id": 1
+    },
+    {
+      "img": "../../assets/shopping (5).webp",
+      "nome": "Biscoito Bauduco ",
+      "descricao": "Biscoito Bauduco ótima qulidade",
+      "valor": 5,
+      "id": 2
+    },
+    {
+      "img": "../../assets/shopping.webp",
+      "nome": "Arroz Tio joão ",
+      "descricao": "Arroz tio João ótima qualidade",
+      "valor": 20,
+      "id": 3
+    }
+  ]
+}
